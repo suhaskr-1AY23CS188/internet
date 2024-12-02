@@ -1,7 +1,10 @@
 hi hello
 computer science
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 engineering
 =======
 CSE
 im suhas
+=======
+>>>>>>> 31c1bc6 ( added)
