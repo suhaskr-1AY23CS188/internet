@@ -1,3 +1,7 @@
 
 computer science
+<<<<<<< Updated upstream
 engineering
+=======
+CSE
+>>>>>>> Stashed changes
